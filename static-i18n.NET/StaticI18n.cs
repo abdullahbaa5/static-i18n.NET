@@ -5,7 +5,7 @@ using Microsoft.Extensions.DependencyInjection;
 using System.Threading.Tasks;
 using System;
 
-namespace static_i18.NET
+namespace static_i18n.NET
 {
     public class StaticI18n
     {

@@ -3,7 +3,7 @@ using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace static_i18.NET.ConsoleApp
+namespace static_i18n.NET.ConsoleApp
 {
     internal class Program
     {

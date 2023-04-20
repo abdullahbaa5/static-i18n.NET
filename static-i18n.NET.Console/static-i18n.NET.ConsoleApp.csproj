@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>static_i18.NET.Console</RootNamespace>
+    <RootNamespace>static_i18n.NET.Console</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

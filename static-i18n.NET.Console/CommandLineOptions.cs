@@ -1,7 +1,7 @@
 ﻿using CommandLine;
 using System.Collections.Generic;
 
-namespace static_i18.NET.ConsoleApp
+namespace static_i18n.NET.ConsoleApp
 {
     public class CommandLineOptions
     {

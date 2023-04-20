@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace static_i18.NET
+namespace static_i18n.NET
 {
     public class Configuration
     {

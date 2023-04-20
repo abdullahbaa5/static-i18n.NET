@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I18Next.Net.Extensions", "I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "I18Next.Net.Abstractions", "I18Next.Net.Abstractions\I18Next.Net.Abstractions.csproj", "{698A2B26-2862-4D36-8C98-AEFA735A6848}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static-i18.NET.ConsoleApp", "static-i18.NET.Console\static-i18.NET.ConsoleApp.csproj", "{1695DA15-7BD6-4202-864B-829D1C2483DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static-i18n.NET.ConsoleApp", "static-i18n.NET.Console\static-i18n.NET.ConsoleApp.csproj", "{1695DA15-7BD6-4202-864B-829D1C2483DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

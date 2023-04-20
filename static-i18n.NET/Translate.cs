@@ -7,7 +7,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace static_i18.NET
+namespace static_i18n.NET
 {
     public class Translate
     {
