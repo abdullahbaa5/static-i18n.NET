@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "static-i18.NET.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "--base-dir \"www\" --locales-path \"locales\" --locales en  --locale en"
+    }
+  }
+}
