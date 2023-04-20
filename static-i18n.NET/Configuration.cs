@@ -1,8 +1,5 @@
-﻿using AngleSharp.Text;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.IO;
-using YamlDotNet.Core.Tokens;
 
 namespace static_i18.NET
 {
